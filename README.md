@@ -1,7 +1,7 @@
 # KeyHub
 All-In-One Encryption Key Generator.
 
-KeyHub is an all-in-one key generator for generating keys to for radio communications.
+KeyHub is an all-in-one key generator for radio communications.
 
 ## Current algorithms supported:
 	None
