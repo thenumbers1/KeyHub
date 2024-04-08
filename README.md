@@ -1,13 +1,14 @@
 # KeyHub
 All-In-One Encryption Key Generator.
 
-KeyHub is an all-in-one key generator for generating keys to encrypt files and radio communications.
+KeyHub is an all-in-one key generator for generating keys to for radio communications.
 
 ## Current algorithms supported:
 	None
 
 ## Planned algorithms:
-	ACCORDION 1.3
+	P25 Mode:
+ 	ACCORDION 1.3
 	BATON (Auto Even)
 	FIREFLY Type 1
 	MAYFLY Type 1
@@ -16,7 +17,6 @@ KeyHub is an all-in-one key generator for generating keys to encrypt files and r
 	DES-OFB
 	DES-XL
 	Rivest Cipher 4 (RC4/ARC4/ADP)
-	AES-128
-	AES-192
+	AES-128 (Link Layer Authentication Keys)
 	AES-256
-	Rivest-Shamir-Adleman (RSA)
+	
